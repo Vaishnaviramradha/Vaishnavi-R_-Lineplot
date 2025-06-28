@@ -1,8 +1,14 @@
 # Vaishnavi-R_-Lineplot
  1)upload all the files in vscode 
- 2) In terminal run this below commands 
+
+ 
+ 2) In terminal run this below commands
+
+
 ..commands to run in vscode..
+
  npm install
+ 
  npm run dev
 
  outputs:
